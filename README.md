@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td width="30%" align="center">
-      <img src="./□.jfif" width="150px" alt="Profile Icon"/>
+      <img src="./profile.jfif" width="150px" alt="Profile Icon" style="border-radius: 50%;"/>
     </td>
     <td width="70%">
       <h3>¡Hola! Soy Rony, pero mis amigos me dicen Rony 😄</h3>
@@ -35,13 +35,13 @@
 
 - ` PROYECTO 1 ` **- Trencito en C:** Muy Básico puro Printf
 - ` PROYECTO 2 ` **- Una calculadora:** Hecho en Visual Basic
-- ` PROYECTO 3 ` **- Una pagina en wix XD**
+- ` PROYECTO 3 ` **- Una página en Wix XD**
 - ` PROYECTO 4 ` **- ZafariLand:** Hecho con Java
 - ` PROYECTO 5 ` **- Gice:** Hecho en Java y POO (No se había terminado)
 - ` PROYECTO 6 ` **- GuestBodega:** Hecho en Python (de los mejores que hice)
 - ` PROYECTO 7 ` **- Nursologic:** Enfocado a enfermería, el más completo
 
-⚠️ *Casi todos no están subidos / Estado LostMedia ⚠️
+⚠️ *Casi todos no están subidos / Estado LostMedia* ⚠️
 
 ---
 
@@ -49,27 +49,31 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/---En%20Desarrollo---🚧-2c3e50?style=for-the-badge&labelColor=bf616a" alt="En Desarrollo"/>
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/📢---ANUNCIOS%20DE%20LASER---📢-2c3e50?style=for-the-badge&labelColor=ebcb8b" alt="Anuncios"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/R0nNy-Java"><img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>    
-  <a href="TU_ENLACE_A_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href="mailto:TU_CORREO@GMAIL.COM"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/R0nNy-Java" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="mailto:tu_correo@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+  </a>
 </p>
 
-## 📈 Contribution
-
-
+## 📈 Contribution & Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R0nNy-Java&theme=react-dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R0nNy-Java&theme=react&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=R0nNy-Java&show_icons=true&theme=react&hide_border=true" alt="GitHub General Stats" />
+</p>
 
 <p align="center">
-  <b>¡Aunnn !! ¡No me Rindoooo !! 💪🔥</b>
+  <b>¡Aún no me rindo! 💪🔥</b>
 </p>
