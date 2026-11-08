@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td width="30%" align="center">
-      <img src="./profile.jfif" width="150px" alt="Profile Icon" style="border-radius: 50%;"/>
+      <img src="https://github.com/Rodny-Paredex22.png" width="150px" alt="Profile Icon" style="border-radius: 50%;"/>
     </td>
     <td width="70%">
       <h3>¡Hola! Soy Rony, pero mis amigos me dicen Rony 😄</h3>
@@ -48,15 +48,15 @@
 ## 🤝 Connect
 
 <p align="center">
-  <img src="https://img.shields.io/badge/---En%20Desarrollo---🚧-2c3e50?style=for-the-badge&labelColor=bf616a" alt="En Desarrollo"/>
-  <img src="https://img.shields.io/badge/📢---ANUNCIOS%20DE%20LASER---📢-2c3e50?style=for-the-badge&labelColor=ebcb8b" alt="Anuncios"/>
+  <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-red?style=for-the-badge" alt="En Desarrollo"/>
+  <img src="https://img.shields.io/badge/Aviso-Anuncios%20de%20Laser-yellow?style=for-the-badge" alt="Anuncios"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/R0nNy-Java" target="_blank">
+  <a href="https://github.com/Rodny-Paredex22" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="mailto:tu_correo@gmail.com">
@@ -67,11 +67,11 @@
 ## 📈 Contribution & Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R0nNy-Java&theme=react&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rodny-Paredex22&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R0nNy-Java&show_icons=true&theme=react&hide_border=true" alt="GitHub General Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rodny-Paredex22&theme=tokyonight&hide_border=true" alt="Racha de Contribuciones" />
 </p>
 
 <p align="center">
