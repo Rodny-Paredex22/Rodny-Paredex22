@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td width="30%" align="center">
-      <img src="https://github.com/Rodny-Paredex22.png" width="150px" alt="Profile Icon" style="border-radius: 50%;"/>
+      <img src="./minipro.jfif" width="150px" alt="Profile Icon" style="border-radius: 50%;"/>
     </td>
     <td width="70%">
       <h3>¡Hola! Soy Rony, pero mis amigos me dicen Rony 😄</h3>
